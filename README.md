@@ -15,7 +15,6 @@
 
 ### Who do I talk to? ###
 
-* Repository is owned and managed by Nandan Ghawate and Team.
-* For Queries and Suggestions reach us at - rnd@skromanglobal.com
+* Repository is owned and managed by Nandan Ghawate.
 * Nandan can also be reached at nandan.ghawate@gmail.com
 * https://nandanghawate.com
