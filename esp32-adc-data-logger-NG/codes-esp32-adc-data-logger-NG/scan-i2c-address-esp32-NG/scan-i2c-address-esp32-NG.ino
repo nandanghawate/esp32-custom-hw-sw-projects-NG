@@ -17,8 +17,9 @@ void setup() {
   Serial.begin(115200);
   Serial.println("Scanning I2C on ESP32");
   Serial.println("Make Sure I2C device is connected on following Pins:");
-  Serial.println("GPIO %d -> SDA", esp32sda);
-  Serial.println("GPIO %d -> SCL", esp32scl);
+  char buffer[40];
+  sprintf(buffer, "GPIO %d -> SDA \nGPIO %d -> SCL", esp32sda, esp32scl);
+  Serial.println(buffer);
   Serial.println("GROUND -> GROUND");
   Wire.begin (esp32sda, esp32scl);
 }
