@@ -2,8 +2,8 @@
 # README #
 ### What is this repository for? ###
 
-* In this Repo I will be uploading the schematics, pcb layouts, test codes and libraries for aesp32-rotary-encoder-NG
-* This Repo will also contain a customised design/code files for Chaka Hamilton's Application.
+* In this Repo I will be uploading the schematics, pcb layouts, test codes and libraries for esp32-rotary-encoder-NG project
+* The circuit and codes have not been tested practically yet, needs to be tested on actual hardware.
 
 ### How do I get set up? ###
 
@@ -28,6 +28,6 @@
 ### Who do I talk to? ###
 
 * Repository is owned and managed by Nandan Ghawate.
-* Nandan can also be reached at nandan.ghawate@gmail.com
+* Nandan can be reached at nandan.ghawate@gmail.com
 * https://nandanghawate.com
 
